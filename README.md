@@ -30,24 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Farrell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarrellMecca06&show_icons=true&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrellMecca06&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-* 🏆 **[World-Cup-2026-Prediction](https://github.com/FarrellMecca06/World-Cup-2026-Prediction):** Machine learning model analyzing player ratings from 1930–2022 to predict the 2026 World Cup champion.
-* 💻 **[Genius-Path](https://github.com/FarrellMecca06/Genius-Path):** Semester 3 project built with PHP.
-* 🎨 **[Nyawit](https://github.com/FarrellMecca06/Nyawit):** Interactive animation project created with Processing.
-* ☕ **[first](https://github.com/FarrellMecca06/first):** Early Java projects and programming practice.
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FarrellMecca06&color=blue&style=flat-square)
